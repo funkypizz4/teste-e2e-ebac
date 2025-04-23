@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Autumn Pullie",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "S",
+        "cor": "Orange",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Lucia Cross-Fit Bra",
+        "tamanho": "XL",
+        "cor": "Black",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Rocco Gym Tank",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 10
+    }
+]
